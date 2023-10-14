@@ -1,0 +1,46 @@
+{
+  "hrUser": [
+    {
+      "name": "Walter White",
+      "jobTitle": "Chemistry teacher",
+      "companyName": "Breaking Bad",
+      "id": 1
+    },
+    {
+      "name": "Jesse Pink Man",
+      "jobTitle": "JavaScript",
+      "companyName": "Breaking Bad",
+      "id": 2
+    },
+    {
+      "name": "Sky White",
+      "jobTitle": "SQL",
+      "companyName": "Breaking Bad",
+      "id": 3
+    },
+    {
+      "name": "Hank S.",
+      "jobTitle": "CSS from zero to hero",
+      "companyName": "Breaking Bad",
+      "id": 4
+    },
+    {
+      "name": "Walter White JR.",
+      "jobTitle": "Full Stack Develop",
+      "companyName": "Breaking Bad",
+      "id": 5
+    },
+    {
+      "name": "Saul Goodman",
+      "jobTitle": "Python",
+      "companyName": "Breaking Bad",
+      "id": 6
+    },
+    {
+      "name": "Mike E.",
+      "jobTitle": "CSS",
+      "companyName": "Breaking Bad",
+      "id": 7
+    }
+  ]
+}
